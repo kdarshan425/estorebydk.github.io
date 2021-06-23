@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is E-store mobile shopee</h1><br>
+<h1 align="center">Hi 👋, This is 'E-store' mobile shopee</h1><br>
 
 
 <h3><b>E-store mobile shopee : </b></h3>
