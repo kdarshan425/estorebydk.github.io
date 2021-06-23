@@ -2,7 +2,7 @@
 
 
 <h3><b>E-store mobile shopee : </b></h3>
-<p>This is E-commerce store for mobile shopping ,This is my first full-stack project.</p>
+<p>This is E-commerce store for mobile shopping,A basic full-stack E-commerce website including features like Add to cart, security,etc. This is my first full-stack project.</p>
 
 
 <h3>Features</h3>
